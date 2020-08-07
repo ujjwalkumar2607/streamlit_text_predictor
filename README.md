@@ -8,7 +8,7 @@ Data preprocessing steps included removing whitespaces from the text file, conve
 The model uses 3 layers in total:
   1) An Embedding Layer 
   2) A Bidirectional LSTM layer with 150 units
-  3) A Dense Layer with SOFTMAX Activation
+  3) A Dense Layer with SOFTMAX Activation.
 <h2>Performance</h2>
 The model was trained using the Adam optimizer with Categorical Cross-Entropy as the loss function.
 Over 30-35 epochs, the training converged with an accuracy close to 90% with an average loss close to 0.5.
@@ -29,7 +29,7 @@ Predicted text: I want to meet your.
 <h2>Install</h2>
 For you to run this project on your local machine, streamlit must be installed.
 <h4>$ pip install streamlit</h4>
-After doing the installation, clone this repository. From your command line interface, toggle to this directory and give the following command
+After doing the installation, clone this repository. From your command line interface, toggle to this directory and give the following command:
 <h4>$ streamlit run app.py</h4>
 
 
