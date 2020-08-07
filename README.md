@@ -1,4 +1,6 @@
 # streamlit_text_predictor
+<h2>Project Glimpse</h2>
+
 ![](images/layout.png)
 <h2>The Dataset</h2>
 In order to train this sequence model, the popular Drama/Indie screenplay Good Will Hunting was used.
