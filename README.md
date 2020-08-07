@@ -12,6 +12,12 @@ The model uses 3 layers in total:
 <h2>Performance</h2>
 The model was trained using the Adam optimizer with Categorical Cross-Entropy as the loss function.
 Over 30-35 epochs, the training converged with an accuracy close to 90% with an average loss close to 0.5.
+<h4>Accuracy Curve</h4>
+
+![](images/Text_Generator_Accuracy.png)
+<h4>Loss Curve</h4>
+
+![](images/Text_Generator_Loss.png)
 <h2>Predictions</h2>
 Lets see some examples to analyse how our model did to predict texts, for this we will feed the model with a seed text to to give our model some perception for it to know in what sense we want it to generate the texts.
 1)
@@ -25,6 +31,7 @@ For you to run this project on your local machine, streamlit must be installed.
 <h4>$ pip install streamlit</h4>
 After doing the installation, clone this repository. From your command line interface, toggle to this directory and give the following command
 <h4>$ streamlit run app.py</h4>
+
 
 
 
