@@ -33,6 +33,8 @@ For you to run this project on your local machine, streamlit must be installed.
 <h4>$ pip install streamlit</h4>
 After doing the installation, clone this repository. From your command line interface, toggle to this directory and give the following command:
 <h4>$ streamlit run app.py</h4>
+<h2>Additional</h2>
+For explanation and intuition behind the source code, refer to my article at: https://towardsdatascience.com/how-our-device-thinks-e1f5ab15071e
 
 
 
