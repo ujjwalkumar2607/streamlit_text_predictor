@@ -1,4 +1,5 @@
 # streamlit_text_predictor
+![](images/layout.png)
 <h2>The Dataset</h2>
 In order to train this sequence model, the popular Drama/Indie screenplay Good Will Hunting was used.
 This corpus comprised of a total of 3293 unique words.
@@ -24,6 +25,8 @@ For you to run this project on your local machine, streamlit must be installed.
 <h4>$ pip install streamlit</h4>
 After doing the installation, clone this repository. From your command line interface, toggle to this directory and give the following command
 <h4>$ streamlit run app.py</h4>
+
+
 
 
 
