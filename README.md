@@ -18,30 +18,41 @@
 
 ## Preview
 ![](images/layout.png)
+
 ## Functionalities
+
 - [ ]  Generate auto-replies
 - [ ]  Spell check/Autocorrection
 - [ ]  Sentence completion
+
+
 <br>
+
 ## Instructions to run
 * Pre-requisites:
 	-  TensorFlow 2.X
 	-  Streamlit
-  -  Python 3.5-3.8
+	-  Python 3.5-3.8
+  
 * Use pip3 to install the current stable release of TensorFlow 2.X in your system
+
 ```bash
 $ pip3 install --user --upgrade tensorflow
 ```
+
 * Install Streamlit
 ```bash
 $ pip install streamlit
 ```
+
 * Executing the source file
 ```bash
 $ streamlit run app.py
 ```
+
 ## Additional
 For explanation and intuition behind the source code, refer to contributors article at: https://towardsdatascience.com/how-our-device-thinks-e1f5ab15071e
+
 ## Contributors
 <table>
 <tr align="center">
