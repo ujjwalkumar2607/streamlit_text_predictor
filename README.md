@@ -26,8 +26,6 @@
 - [ ]  Sentence completion
 
 
-<br>
-
 ## Instructions to run
 * Pre-requisites:
 	-  TensorFlow 2.X
