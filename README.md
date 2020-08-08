@@ -49,7 +49,7 @@ $ streamlit run app.py
 ```
 
 ## Additional
-For explanation and intuition behind the source code, refer to contributors article at: https://towardsdatascience.com/how-our-device-thinks-e1f5ab15071e
+For explanation and intuition behind the source code, refer to the contributors article at: https://towardsdatascience.com/how-our-device-thinks-e1f5ab15071e
 
 ## Contributors
 <table>
